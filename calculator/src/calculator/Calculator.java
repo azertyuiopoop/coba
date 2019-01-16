@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Calculator {
 
     public static void main(String[] args) {
+	System.out.println("Selamat datang di penjumlahan!/n");
         Scanner sc = new Scanner(System.in);
         System.out.println("masukan angka pertama:");
         int x, y, hasil;
